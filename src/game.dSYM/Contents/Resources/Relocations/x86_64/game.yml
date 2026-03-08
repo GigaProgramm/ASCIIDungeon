@@ -1,0 +1,5 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/user/Documents/Documents/GitHub/ASCIIDungeon/ASCIIDungeon/src/game'
+relocations:     []
+...
